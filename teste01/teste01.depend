@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631404217 source:c:\users\bruno\desktop\curso projetos\teste01\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1631404206 source:c:\users\bruno\desktop\curso projetos\teste01\asdasdadad.c
+	<stdio.h>
+	<stdlib.h>
+
